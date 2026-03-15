@@ -163,11 +163,6 @@ The `KitchenApiService` interface defines all endpoints needed for kitchen commu
 - Order creation and status updates
 - Real-time updates via WebSocket (to be implemented)
 
-## Screenshots
-
-| Home | Table Selection | Menu | Cart | Checkout | Order Status |
-|------|----------------|------|------|----------|--------------|
-| Shows active order | Select table | Browse items | Review order | M-Pesa payment | Track progress |
 
 ## Customization
 
